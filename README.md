@@ -39,7 +39,7 @@ Every project here represents **self-directed learning** — built in my own tim
 ## 📬 Let’s Connect
 
 🔗 [Portfolio](https://tahmidchoudhury.uk)  
-💼 [LinkedIn](https://linkedin.com/in/tahmidchoudhury)  
+💼 [LinkedIn](https://www.linkedin.com/in/tahmid-choudhury-a1a05a252/)  
 🐙 [GitHub](https://github.com/tahmidachoudhury)
 
 _"From building tuition platforms to deploying AI-powered apps, I create solutions that work in the real world — fast."_
