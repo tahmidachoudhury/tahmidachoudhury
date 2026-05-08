@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Tahmid Choudhury Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey, I'm Tahmid 👋🏽</h1>
 
 <p align="center">
