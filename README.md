@@ -78,13 +78,13 @@ Check out my repositories and technical write-ups for more projects covering:
 
 ---
 
-<h3 align="center">Currently Learning</h3>
+<!-- <h3 align="center">Currently Learning</h3>
 
 <p align="center">
   AWS ECS · Kubernetes · Advanced Terraform · Observability Engineering · Platform Engineering · Linux Internals · Distributed Systems
 </p>
 
----
+--- -->
 
 <h3 align="center">Connect with Me</h3>
 
