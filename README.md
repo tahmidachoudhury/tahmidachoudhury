@@ -89,13 +89,13 @@ Check out my repositories and technical write-ups for more projects covering:
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/t-a-choudhury/">
+  <a href="https://www.linkedin.com/in/t-a-choudhury/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.tahmidchoudhury.uk">
+  <a href="https://www.tahmidchoudhury.uk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/tahmidachoudhury">
+  <a href="https://github.com/tahmidachoudhury" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
